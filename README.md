@@ -2,6 +2,7 @@
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguesslucas/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](youtube.com/lucasDev)
+RodriguessLucas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguesslucas&show_icons=true&theme=onedark)
 <hr>
@@ -13,4 +14,4 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>      
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriguessLucas&layout=donut)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriguessLucas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
