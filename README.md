@@ -60,14 +60,6 @@ Gosto de **medir antes de otimizar**: performance guiada por métricas, não por
   <img alt="Streak" src="https://streak-stats.demolab.com?user=RodriguessLucas&theme=onedark&hide_border=true&background=0d1117&ring=C2825A&fire=C2825A&currStreakLabel=C2825A"/>
 </p>
 
-<p align="center">
-  <img alt="Troféus" src="https://github-profile-trophy.vercel.app/?username=RodriguessLucas&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-</p>
-
-## 📈 Atividade de contribuições
-
-<img width="100%" alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=RodriguessLucas&theme=react-dark&bg_color=0d1117&color=C2825A&line=C2825A&point=ffffff&area=true&area_color=C2825A&hide_border=true"/>
-
 ## 📫 Contato
 
 <p align="center">
