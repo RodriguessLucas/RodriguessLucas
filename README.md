@@ -25,7 +25,7 @@ Gosto de **medir antes de otimizar**: performance guiada por métricas, não por
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img alt="Stack" src="https://skillicons.dev/icons?i=java,spring,angular,react,nextjs,ts,tailwind,astro,postgres,mongodb,mysql,docker,githubactions,cloudflare,vercel,oracle,bash&perline=9&theme=dark" />
+  <img alt="Stack" src="https://skillicons.dev/icons?i=java,spring,angular,react,nextjs,ts,tailwind,astro,postgres,mongodb,mysql,docker,githubactions,cloudflare,vercel,bash&perline=8&theme=dark" />
 </p>
 
 **Como uso cada grupo, em poucas palavras:**
