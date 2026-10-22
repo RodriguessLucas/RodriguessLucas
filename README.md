@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rodriguesslucas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rodrigues.lrp17@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img alt="Visitas" src="https://komarev.com/ghpvc/?username=RodriguessLucas&label=Visitas&color=C2825A&style=for-the-badge"/>
 </p>
 
 ---
